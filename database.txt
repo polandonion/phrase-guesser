@@ -1,0 +1,442 @@
+// fruits
+apple,fruit
+banana,fruit
+orange,fruit
+strawberry,fruit
+grape,fruit
+watermelon,fruit
+pineapple,fruit
+mango,fruit
+blueberry,fruit
+peach,fruit
+pear,fruit
+plum,fruit
+kiwi,fruit
+papaya,fruit
+raspberry,fruit
+blackberry,fruit
+cherry,fruit
+lemon,fruit
+lime,fruit
+pomegranate,fruit
+fig,fruit
+coconut,fruit
+nectarine,fruit
+star fruit,fruit
+
+// vegetables
+potato,vegetable
+tomato,vegetable
+onion,vegetable
+carrot,vegetable
+broccoli,vegetable
+spinach,vegetable
+lettuce,vegetable
+pepper,vegetable
+cucumber,vegetable
+garlic,vegetable
+cabbage,vegetable
+eggplant,vegetable
+celery,vegetable
+beetroot,vegetable
+radish,vegetable
+pea,vegetable
+corn,vegetable
+pumpkin,vegetable
+mushroom,vegetable
+sweet potato,vegetable
+
+// video games
+minecraft,video game
+fortnite,video game
+grand theft auto,video game
+call of duty,video game
+league of legends,video game
+counter strike,video game
+roblox,video game
+valorant,video game
+war thunder,video game
+the sims,video game
+dota,video game
+fallout,video game
+cyberpunk,video game
+red dead redemption,video game
+fifa,video game
+rocket league,video game
+battlefield,video game
+among us,video game
+clash of clans,video game
+pokemon,video game
+far cry,video game
+simcity,video game
+clash royale,video game
+hay day,video game
+brawl stars,video game
+granny,video game
+undertale,video game
+geometry dash,video game
+stumble guys,video game
+
+// sports
+soccer,sport
+football,sport
+basketball,sport
+tennis,sport
+cricket,sport
+baseball,sport
+american football,sport
+hockey,sport
+golf,sport
+volleyball,sport
+rugby,sport
+badminton,sport
+table tennis,sport
+boxing,sport
+wrestling,sport
+cycling,sport
+swimming,sport
+skiing,sport
+snowboarding,sport
+surfing,sport
+skateboarding,sport
+gymnastics,sport
+triathlon,sport
+archery,sport
+karate,sport
+judo,sport
+taekwondo,sport
+sumo,sport
+ice skating,sport
+kayaking,sport
+sailing,sport
+windsurfing,sport
+handball,sport
+
+// animals
+dog,animal
+cat,animal
+horse,animal
+cow,animal
+lion,animal
+tiger,animal
+elephant,animal
+bird,animal
+fish,animal
+rabbit,animal
+wolf,animal
+bear,animal
+fox,animal
+deer,animal
+goat,animal
+sheep,animal
+pig,animal
+chicken,animal
+duck,animal
+eagle,animal
+owl,animal
+hawk,animal
+falcon,animal
+shark,animal
+whale,animal
+dolphin,animal
+octopus,animal
+squid,animal
+crab,animal
+lobster,animal
+seal,animal
+walrus,animal
+penguin,animal
+camel,animal
+alpaca,animal
+llama,animal
+kangaroo,animal
+koala,animal
+panda,animal
+monkey,animal
+gorilla,animal
+chimpanzee,animal
+zebra,animal
+giraffe,animal
+hippopotamus,animal
+rhinoceros,animal
+
+// countries
+afghanistan,country
+albania,country
+algeria,country
+andorra,country
+angola,country
+antigua and barbuda,country
+argentina,country
+armenia,country
+australia,country
+austria,country
+azerbaijan,country
+bahamas,country
+bahrain,country
+bangladesh,country
+barbados,country
+belarus,country
+belgium,country
+belize,country
+benin,country
+bhutan,country
+bolivia,country
+bosnia and herzegovina,country
+botswana,country
+brazil,country
+brunei,country
+bulgaria,country
+burkina faso,country
+burundi,country
+cambodia,country
+cameroon,country
+canada,country
+cape verde,country
+central african republic,country
+chad,country
+chile,country
+china,country
+colombia,country
+comoros,country
+congo,country
+costa rica,country
+croatia,country
+cuba,country
+cyprus,country
+czech republic,country
+denmark,country
+djibouti,country
+dominica,country
+dominican republic,country
+ecuador,country
+egypt,country
+el salvador,country
+equatorial guinea,country
+eritrea,country
+estonia,country
+eswatini,country
+ethiopia,country
+fiji,country
+finland,country
+france,country
+gabon,country
+gambia,country
+georgia,country
+germany,country
+ghana,country
+greece,country
+grenada,country
+guatemala,country
+guinea,country
+guinea-bissau,country
+guyana,country
+haiti,country
+honduras,country
+hungary,country
+iceland,country
+india,country
+indonesia,country
+iran,country
+iraq,country
+ireland,country
+israel,country
+italy,country
+jamaica,country
+japan,country
+jordan,country
+kazakhstan,country
+kenya,country
+kiribati,country
+kuwait,country
+kyrgyzstan,country
+laos,country
+latvia,country
+lebanon,country
+lesotho,country
+liberia,country
+libya,country
+liechtenstein,country
+lithuania,country
+luxembourg,country
+madagascar,country
+malawi,country
+malaysia,country
+maldives,country
+mali,country
+malta,country
+marshall islands,country
+mauritania,country
+mauritius,country
+mexico,country
+micronesia,country
+moldova,country
+monaco,country
+mongolia,country
+montenegro,country
+morocco,country
+mozambique,country
+myanmar,country
+namibia,country
+nauru,country
+nepal,country
+netherlands,country
+new zealand,country
+nicaragua,country
+niger,country
+nigeria,country
+north korea,country
+north macedonia,country
+norway,country
+oman,country
+pakistan,country
+palau,country
+panama,country
+papua new guinea,country
+paraguay,country
+peru,country
+philippines,country
+poland,country
+portugal,country
+qatar,country
+romania,country
+russia,country
+rwanda,country
+saint kitts and nevis,country
+saint lucia,country
+saint vincent and the grenadines,country
+samoa,country
+san marino,country
+sao tome and principe,country
+saudi arabia,country
+senegal,country
+serbia,country
+seychelles,country
+sierra leone,country
+singapore,country
+slovakia,country
+slovenia,country
+solomon islands,country
+somalia,country
+south africa,country
+south sudan,country
+spain,country
+sri lanka,country
+sudan,country
+suriname,country
+sweden,country
+switzerland,country
+syria,country
+tajikistan,country
+tanzania,country
+thailand,country
+timor-leste,country
+togo,country
+tonga,country
+trinidad and tobago,country
+tunisia,country
+turkey,country
+turkmenistan,country
+tuvalu,country
+uganda,country
+ukraine,country
+united arab emirates,country
+united kingdom,country
+united states,country
+uruguay,country
+uzbekistan,country
+vanuatu,country
+vatican city,country
+venezuela,country
+vietnam,country
+yemen,country
+zambia,country
+zimbabwe,country
+
+// instruments
+guitar,instrument
+piano,instrument
+violin,instrument
+drums,instrument
+bass,instrument
+flute,instrument
+clarinet,instrument
+saxophone,instrument
+trumpet,instrument
+harp,instrument
+accordion,instrument
+mandolin,instrument
+ukulele,instrument
+xylophone,instrument
+organ,instrument
+oboe,instrument
+triangle,instrument
+marimba,instrument
+lute,instrument
+
+// movies and tv series
+inception,movie
+avatar,movie
+titanic,movie
+matrix,movie
+star wars,movie
+lord of the rings,movie
+harry potter,movie
+avengers,movie
+jurassic park,movie
+terminator,movie
+jaws,movie
+life,movie
+mad max,movie
+men in black,movie
+breaking bad,tv series
+game of thrones,tv series
+friends,tv series
+stranger things,tv series
+the office,tv series
+better call saul,tv series
+lost,tv series
+dexter,tv series
+dark,tv series
+chernobyl,tv series
+the boys,tv series
+peaky blinders,tv series
+money heist,tv series
+the terminal list,tv series
+
+// jobs
+teacher,job
+doctor,job
+nurse,job
+engineer,job
+programmer,job
+designer,job
+manager,job
+accountant,job
+lawyer,job
+architect,job
+electrician,job
+plumber,job
+carpenter,job
+mechanic,job
+chef,job
+cook,job
+baker,job
+waiter,job
+bartender,job
+cashier,job
+marketer,job
+consultant,job
+analyst,job
+scientist,job
+researcher,job
+professor,job
+journalist,job
+photographer,job
+editor,job
+writer,job
+copywriter,job
+translator,job
+interpreter,job
+economist,job
+mason,job
