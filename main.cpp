@@ -83,8 +83,8 @@ void generate_word(string& real_word, string& word_category, string& show_word, 
     }
     if (real_word.front() == 'y' or real_word.back() == 'y') {
         unused.erase(find(unused.begin(), unused.end(), 'y'));
-        show_word.front() = (real_word.front() == 'y' ? 'y' : '_');
-        show_word.back() = (real_word.back() == 'y' ? 'y' : '_');
+        show_word.front() = (real_word.front() == 'y' ? 'y' : show_word.front());
+        show_word.back() = (real_word.back() == 'y' ? 'y' : show_word.back());
     }
     words.clear();
     database.close();
