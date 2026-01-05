@@ -162,6 +162,8 @@ int main() {
                     if (opt == 'l') {
                         cout << "guess the letter... ";
                         char guess_letter = getch();
+                        while ((is_letter(guess_letter) == true and find(unused.begin(), unused.end(), guess_letter) != unused.end()) == false)
+                            guess_letter = getch();
                         check(show_word, real_word, guess_letter, unused);
                     }
                     else if (opt == 'w') {
