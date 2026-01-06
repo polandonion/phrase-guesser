@@ -495,211 +495,89 @@ wyoming,us state
 
 // us state capitals
 montgomery,us state capital
-juneau,us state capital
 phoenix,us state capital
-little rock,us state capital
 sacramento,us state capital
 denver,us state capital
-hartford,us state capital
-dover,us state capital
-tallahassee,us state capital
 atlanta,us state capital
 honolulu,us state capital
-boise,us state capital
-springfield,us state capital
 indianapolis,us state capital
-des moines,us state capital
-topeka,us state capital
-frankfort,us state capital
-baton rouge,us state capital
-augusta,us state capital
-annapolis,us state capital
 boston,us state capital
-lansing,us state capital
-saint paul,us state capital
-jackson,us state capital
-jefferson city,us state capital
-helena,us state capital
 lincoln,us state capital
-carson city,us state capital
-concord,us state capital
-trenton,us state capital
 santa fe,us state capital
-albany,us state capital
-raleigh,us state capital
-bismarck,us state capital
-columbus,us state capital
 oklahoma city,us state capital
-salem,us state capital
-harrisburg,us state capital
-providence,us state capital
-columbia,us state capital
 pierre,us state capital
 nashville,us state capital
 austin,us state capital
-salt lake city,us state capital
-montpelier,us state capital
 richmond,us state capital
-olympia,us state capital
-charleston,us state capital
-madison,us state capital
-cheyenne,us state capital
 
 // world capitals
-tirana,country capital
-algiers,country capital
-andorra la vella,country capital
-luanda,country capital
 buenos aires,country capital
-yerevan,country capital
 canberra,country capital
 vienna,country capital
-baku,country capital
-dhaka,country capital
 minsk,country capital
 brussels,country capital
-belmopan,country capital
-thimphu,country capital
-sucre,country capital
 sarajevo,country capital
-gaborone,country capital
 brasilia,country capital
 sofia,country capital
-ouagadougou,country capital
-bujumbura,country capital
-phnom penh,country capital
-yaounde,country capital
 ottawa,country capital
-bangui,country capital
-ndjamena,country capital
 santiago,country capital
 beijing,country capital
 bogota,country capital
-kinshasa,country capital
-san jose,country capital
 zagreb,country capital
 havana,country capital
-nicosia,country capital
 prague,country capital
 copenhagen,country capital
 djibouti,country capital
-roseau,country capital
-quito,country capital
-cairo,country capital
 san salvador,country capital
-asmara,country capital
-tallinn,country capital
-mbabane,country capital
-addis ababa,country capital
-suva,country capital
 helsinki,country capital
 paris,country capital
 tbilisi,country capital
 berlin,country capital
-accra,country capital
 athens,country capital
-guatemala city,country capital
-conakry,country capital
-georgetown,country capital
-tegucigalpa,country capital
 budapest,country capital
 reykjavik,country capital
 new delhi,country capital
-jakarta,country capital
 tehran,country capital
 baghdad,country capital
 dublin,country capital
 jerusalem,country capital
 rome,country capital
-kingston,country capital
 tokyo,country capital
-amman,country capital
-astana,country capital
 nairobi,country capital
 kuwait city,country capital
-bishkek,country capital
-vientiane,country capital
 riga,country capital
 beirut,country capital
-maseru,country capital
-monrovia,country capital
-tripoli,country capital
-vaduz,country capital
 vilnius,country capital
 luxembourg,country capital
-antananarivo,country capital
-lilongwe,country capital
 kuala lumpur,country capital
-male,country capital
-bamako,country capital
-valletta,country capital
-majuro,country capital
-nouakchott,country capital
 port louis,country capital
 mexico city,country capital
-palikir,country capital
-chisinau,country capital
 monaco,country capital
-ulaanbaatar,country capital
 podgorica,country capital
-rabat,country capital
-maputo,country capital
-naypyidaw,country capital
-windhoek,country capital
 kathmandu,country capital
 amsterdam,country capital
 wellington,country capital
-managua,country capital
-niamey,country capital
-abuja,country capital
-skopje,country capital
 oslo,country capital
-muscat,country capital
-islamabad,country capital
-melekeok,country capital
 panama city,country capital
-port moresby,country capital
-asuncion,country capital
 lima,country capital
 manila,country capital
 warsaw,country capital
 lisbon,country capital
 bucharest,country capital
 moscow,country capital
-kigali,country capital
-apia,country capital
 san marino,country capital
-riyadh,country capital
-dakar,country capital
 belgrade,country capital
-freetown,country capital
 singapore,country capital
 bratislava,country capital
-ljubljana,country capital
-honiara,country capital
-mogadishu,country capital
-pretoria,country capital
-juba,country capital
 madrid,country capital
 colombo,country capital
-paramaribo,country capital
 stockholm,country capital
 bern,country capital
-dodoma,country capital
 bangkok,country capital
-dili,country capital
-tunis,country capital
 ankara,country capital
-ashgabat,country capital
-funafuti,country capital
-kampala,country capital
 kyiv,country capital
-montevideo,country capital
-tashkent,country capital
-port vila,country capital
 vatican city,country capital
 caracas,country capital
 hanoi,country capital
-lusaka,country capital
-harare,country capital
 washington dc,country capital
+mogadishu,country capital
